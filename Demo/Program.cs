@@ -8,8 +8,8 @@ namespace Demo
 {
     internal class Program
     {
-        int a = 10;
-        int b = 20;
-        int c = 40;
+        int a = 100000;
+        int b = 200000;
+        int c = 400000;
     }
 }
